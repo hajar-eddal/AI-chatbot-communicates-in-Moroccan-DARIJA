@@ -1,0 +1,32 @@
+{"intents": [
+
+{"tag": "greetings",
+"patterns":["salam","salam 3alaykom", "marhaba","hi","hello","salut","bonjour","ahlan"],
+"responses":["salam","wa3alaykom salam","marhaba","ahlan"]
+},
+
+{"tag": "goodbye",
+"patterns":["bslama","ma3a salam","bye bye","bay","nchofak man ba3d"],
+"responses":["bslama","bye bye","nchofak man ba3d"]
+},
+
+{"tag": "age",
+"patterns":["ch7al f 3omrak","ch7al 3andak man 3am"],
+"responses":["ana 3ndi chhar f3omri","f3omri chhar"]
+},
+
+{"tag": "name",
+"patterns":["chno smytak","chno n9dar n3yat lik","ach smak lah"],
+"responses":["smayti Darija boot w nta ?","ana Darija boot w nta ?"]
+},
+
+{"tag": "shope",
+"patterns":["chno katbi3o","bghit nchri 3likom","bghit nchri chi 7aja","kifach n9dar nchri man 3andkom"],
+"responses":["mrahba! 7na kabi3o mawad tajmil t9dar tl9a lmontaj li ynasbak fhad saf7a"]
+},
+
+{"tag": "hours",
+"patterns":["imta kat7alo","m3ayach kat7lo","imta katkono 7alin","chno taw9it lkhdma dyalkom"],
+"responses":["man 8 dyal sbah l 9 dyal lil kola nhar ila nhar l7ad "]
+}
+]}
